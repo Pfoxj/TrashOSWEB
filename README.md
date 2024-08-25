@@ -1,3 +1,3 @@
 # TrashOSWEB
 The Source Code For The TrashOS Website.
-### ONLY FOR THE TRASHOS TEAM!
+*If You Found This, Good For You, I Guess...*
